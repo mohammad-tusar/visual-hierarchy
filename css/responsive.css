@@ -1,0 +1,645 @@
+
+/***********************************************************************************************/
+/*  Responsive/adaptive stuff */
+/***********************************************************************************************/
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+
+/* St-Header */
+.navbar-nav > li > a {
+  font-size: 11px;
+  padding: 10px 12% !important;
+}
+.navbar-inverse .navbar-nav > li:last-child > a {
+  padding-right: 5% !important;
+}
+.navbar {
+  margin: 15px 0;
+}
+.logo img {
+  width: 100%;
+}
+.col-md-7.col-sm-8.col-xs-12.hans {
+  padding-left: 0;
+}
+.navbar-nav {
+  float: right;
+}
+
+/* St-Slider */
+.btn.btn-danger.taps {
+  font-size: 16px;
+  margin-right: 10px;
+  padding: 14px 20px 17px;
+}
+.btn.btn-default.tips {
+  font-size: 16px;
+  margin-right: 0;
+  padding: 14px 20px 17px 20px;
+}
+.taps > i, .tips > i {
+  font-size: 25px;
+  line-height: 25px;
+}
+.caps > h1 {
+  font-size: 60px;
+  line-height: normal;
+}
+
+/* St-Features */
+section#st-features {
+  padding: 60px 0 30px;
+}
+
+/* St-Apps */
+.col-md-4.col-sm-4.col-xs-12.d1 {
+  padding-right: 0;
+}
+.col-md-4.col-sm-4.col-xs-12.d2 {
+  padding-left: 0;
+}
+.media-left {
+  margin-right: 15px;
+}
+.media-right {
+  margin-left: 15px;
+}
+
+.media-heading {
+  font-size: 150%;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+.media-body > p {
+  font-size: 14px;
+}
+.media-left > a, .media-right > a {
+  font-size: 28px;
+  line-height: 35px;
+}
+.media.rights, .media.lefts {
+  margin-bottom: 15px;
+}
+.times > img {
+  height: 405px;
+}
+
+/* St-Screen */
+.vital {
+  height: 400px;
+}
+.fottec > h4 {
+  line-height: 400px;
+}
+
+
+/* St-Download */
+#st-download .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  height: 400px;
+}
+.carousel-caption {
+  padding-bottom: 30px;
+}
+.funnyfull > h3 {
+  font-size: 250%;
+}
+
+}
+
+
+
+/** 980* 1280 **/
+@media only screen and (min-width: 960px) and (max-width: 991px){
+
+/* St-Header */
+.navbar-nav > li > a {
+  font-size: 11px;
+  padding: 10px 12% !important;
+}
+.navbar-inverse .navbar-nav > li:last-child > a {
+  padding-right: 5% !important;
+}
+.navbar {
+  margin: 15px 0;
+}
+.logo img {
+  width: 100%;
+}
+.col-md-7.col-sm-8.col-xs-12.hans {
+  padding-left: 0;
+}
+.navbar-nav {
+  float: right;
+}
+
+/* St-Slider */
+.btn.btn-danger.taps {
+  font-size: 16px;
+  margin-right: 10px;
+  padding: 14px 20px 17px;
+}
+.btn.btn-default.tips {
+  font-size: 16px;
+  margin-right: 0;
+  padding: 14px 20px 17px 20px;
+}
+.taps > i, .tips > i {
+  font-size: 25px;
+  line-height: 25px;
+}
+.caps > h1 {
+  font-size: 60px;
+  line-height: normal;
+}
+
+/* St-Features */
+section#st-features {
+  padding: 60px 0 30px;
+}
+
+/* St-Apps */
+.col-md-4.col-sm-4.col-xs-12.d1 {
+  padding-right: 0;
+}
+.col-md-4.col-sm-4.col-xs-12.d2 {
+  padding-left: 0;
+}
+.media-left {
+  margin-right: 15px;
+}
+.media-right {
+  margin-left: 15px;
+}
+.tabline {
+  height: 450px;
+}
+.media-heading {
+  font-size: 150%;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+.media-body > p {
+  font-size: 14px;
+}
+.media-left > a, .media-right > a {
+  font-size: 28px;
+  line-height: 35px;
+}
+.media.rights, .media.lefts {
+  margin-bottom: 15px;
+}
+.tabline {
+  height: 450px;
+}
+/* St-Screen */
+.vital {
+  height: 400px;
+}
+.fottec > h4 {
+  line-height: 400px;
+}
+
+
+/* St-Download */
+#st-download .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  height: 400px;
+}
+.carousel-caption {
+  padding-bottom: 30px;
+}
+.funnyfull > h3 {
+  font-size: 250%;
+}
+
+
+	
+}
+
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and(max-width:959px){
+	
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers)  800*1280 , 768*1024 */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+/* St-Header */
+.navbar-nav > li > a {
+  font-size: 11px;
+  padding: 10px 12% !important;
+}
+.navbar-inverse .navbar-nav > li:last-child > a {
+  padding-right: 5px !important;
+}
+.logo img {
+  width: 100%;
+}
+.col-md-7.col-sm-8.col-xs-12.hans {
+  padding-left: 0;
+}
+.navbar-nav {
+  float: right;
+}
+
+/* St-Slider */
+.btn.btn-danger.taps {
+  font-size: 16px;
+  margin-right: 10px;
+  padding: 14px 20px 17px;
+  width: 50%;
+}
+.btn.btn-default.tips {
+  font-size: 16px;
+  margin-right: 0;
+  padding: 14px 20px 17px 20px;
+  width: 45%;
+}
+.taps > i, .tips > i {
+  font-size: 25px;
+  line-height: 25px;
+}
+.caps > h1 {
+  font-size: 60px;
+  line-height: normal;
+}
+
+/* St-Features */
+section#st-features {
+  padding: 60px 0 30px;
+}
+
+/* St-Apps */
+.col-md-4.col-sm-4.col-xs-12.d1 {
+  padding-right: 0;
+}
+.col-md-4.col-sm-4.col-xs-12.d2 {
+  padding-left: 0;
+}
+.media-left {
+  margin-right: 15px;
+}
+.media-right {
+  margin-left: 15px;
+}
+.tabline {
+  height: 450px;
+}
+.media-heading {
+  font-size: 150%;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+.media-body > p {
+  font-size: 14px;
+}
+.media-left > a, .media-right > a {
+  font-size: 28px;
+  line-height: 35px;
+}
+.media.rights, .media.lefts {
+  margin-bottom: 15px;
+}
+
+/* St-Screen */
+.vital {
+  height: 400px;
+}
+.fottec > h4 {
+  line-height: 400px;
+}
+
+
+/* St-Download */
+#st-download .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  height: 400px;
+}
+.carousel-caption {
+  padding-bottom: 30px;
+}
+.funnyfull > h3 {
+  font-size: 250%;
+}
+.btn.btn-danger.burn {
+  width: 50%;
+}
+
+
+
+}
+/* All Mobile Sizes (devices and browser) 360*640 */
+@media only screen and (max-width: 767px) {
+	
+
+
+}
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+/* St-Header */
+.logo {
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+.logo img {
+  width: 100%;
+  height: auto;
+}
+#shape {
+  margin-top: -5%;
+}
+/* Jason Nav  */
+.menu-main .navbar.navbar-default {
+  background: none repeat scroll 0 0 transparent !important;
+  padding: 0 0 0 6px !important;
+  position: fixed !important;
+  right: 0 !important;
+  top: -5px !important;
+  z-index: 2000 !important;
+}
+.navmenu-default .navmenu-nav > li > a, .navbar-default .navbar-offcanvas .navmenu-nav > li > a {
+  text-transform: uppercase !important;
+  color: #fff;
+}
+.navmenu-default, .navbar-default .navbar-offcanvas {
+  background-color: #616161;
+  border-color: #e7e7e7;
+}
+.navmenu-default .navmenu-nav > li > a:hover, .navbar-default .navbar-offcanvas .navmenu-nav > li > a:hover, .navmenu-default .navmenu-nav > li > a:focus, .navbar-default .navbar-offcanvas .navmenu-nav > li > a:focus {
+  color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+.navbar-toggle {
+  background-color: #616161;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #fa8072;
+}
+.navmenu, .navbar-offcanvas {
+  float: right !important;
+  min-width: 60% !important;
+  width: 60% !important;
+}
+
+/* St-Slider */
+
+.caps {
+  margin-top: 35px;
+  text-align: center;
+}
+.caps > h1 {
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 60px;
+}
+.col-md-7.col-sm-7.col-xs-7.res {
+  padding-left: 0;
+}
+.btn.btn-danger.taps {
+  font-size: 16px;
+  margin-bottom: 10px;
+  margin-right: 0;
+  padding: 14px 20px 17px;
+  width: 100%;
+}
+.btn.btn-default.tips {
+  font-size: 16px;
+  margin-right: 0;
+  padding: 14px 20px 17px 20px;
+  width: 100%;
+}
+.taps > i, .tips > i {
+  font-size: 25px;
+  line-height: 25px;
+}
+.anvrl span.glyphicon.glyphicon-chevron-left, .anvrr span.glyphicon.glyphicon-chevron-right{
+  margin-top: 80%;
+}
+.pull-right {
+  float: none !important;
+  width: 80%;
+}
+.aust {
+  text-align: center;
+  margin-bottom: 20px;
+}
+#carousel-example-generic {
+  margin-bottom: 80px;
+}
+.ust {
+  text-align: center;
+}
+
+/* Common Class */
+.header-con > h1 {
+  font-size: 180%;
+}
+.newer {
+  bottom: -25px;
+}
+.newer li.active {
+  background-color: #e84c3d;
+}
+.newer li {
+  background-color: #f1f1f1;
+  border-color: #000;
+}
+
+
+/* St-Apps */
+.media-left, .media-right {
+  display: block;
+  float: none;
+  margin: 0;
+}
+.media-left > a, .media-right > a {
+  width: 100%;
+}
+.lefts > .media-body, .rights > .media-body {
+  text-align: center;
+}
+
+
+/* St-Download */
+#st-download .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  height: 400px;
+}
+.carousel-caption {
+  padding-bottom: 20px;
+}
+.funnyfull > h3 {
+  font-size: 200%;
+}
+.btn.btn-danger.burn {
+  width: 80%;
+}
+
+/* St-Footer */
+.ft-left > p {
+  text-align: center;
+}
+#social {
+  float: none;
+  margin: 0 auto;
+  width: 30%;
+}
+
+
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) 320*480  */
+@media only screen and (max-width: 479px) {
+#shape {
+  margin-top: -8%;
+}
+.logo {
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+.logo img {
+  width: 100%;
+}
+
+/* Jason Nav  */
+.menu-main .navbar.navbar-default {
+  background: none repeat scroll 0 0 transparent !important;
+  padding: 0 0 0 6px !important;
+  position: fixed !important;
+  right: 0 !important;
+  top: -5px !important;
+  z-index: 2000 !important;
+}
+.navmenu-default .navmenu-nav > li > a, .navbar-default .navbar-offcanvas .navmenu-nav > li > a {
+  text-transform: uppercase !important;
+  color: #fff;
+}
+.navmenu-default, .navbar-default .navbar-offcanvas {
+  background-color: #616161;
+  border-color: #e7e7e7;
+}
+.navmenu-default .navmenu-nav > li > a:hover, .navbar-default .navbar-offcanvas .navmenu-nav > li > a:hover, .navmenu-default .navmenu-nav > li > a:focus, .navbar-default .navbar-offcanvas .navmenu-nav > li > a:focus {
+  color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+.navbar-toggle {
+  background-color: #616161;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #fa8072;
+}
+.navmenu, .navbar-offcanvas {
+  float: right !important;
+  min-width: 60% !important;
+  width: 60% !important;
+}
+
+/* St-Slider */
+
+.pull-right {
+  float: none !important;
+  width: 80%;
+}
+.aust {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.caps {
+  margin-top: 5px;
+  text-align: center;
+}
+.caps > h1 {
+  font-size: 200%;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 30px;
+}
+.col-md-7.col-sm-7.col-xs-7.res {
+  padding-left: 0;
+}
+.btn.btn-danger.taps {
+  font-size: 13px;
+  margin-bottom: 10px;
+  margin-right: 0;
+  padding: 14px 12px 17px;
+  width: 100%;
+}
+.btn.btn-default.tips {
+  font-size: 13px;
+  margin-right: 0;
+  padding: 14px 12px 17px;
+  width: 100%;
+}
+.taps > i, .tips > i {
+  font-size: 25px;
+  line-height: 25px;
+}
+.anvrl span.glyphicon.glyphicon-chevron-left, .anvrr span.glyphicon.glyphicon-chevron-right{
+  margin-top: 80%;
+}
+#carousel-example-generic {
+  margin-bottom: 80px;
+}
+.ust {
+  text-align: center;
+}
+
+/* Common Class */
+.header-con > h1 {
+  font-size: 180%;
+}
+.newer {
+  bottom: -25px;
+}
+.newer li.active {
+  background-color: #e84c3d;
+}
+.newer li {
+  background-color: #f1f1f1;
+  border-color: #000;
+}
+
+
+/* St-Apps */
+.media-left, .media-right {
+  display: block;
+  float: none;
+  margin: 0;
+}
+.media-left > a, .media-right > a {
+  width: 100%;
+}
+.lefts > .media-body, .rights > .media-body {
+  text-align: center;
+}
+
+
+/* St-Download */
+#st-download .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  height: 400px;
+}
+.carousel-caption {
+  padding-bottom: 20px;
+}
+.funnyfull > h3 {
+  font-size: 200%;
+}
+.btn.btn-danger.burn {
+  width: 90%;
+}
+
+/* St-Footer */
+.ft-left > p {
+  text-align: center;
+}
+#social {
+  float: none;
+  margin: 0 auto;
+  width: 50%;
+}
+
+
+}
+
